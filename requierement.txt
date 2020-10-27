@@ -1,0 +1,3 @@
+apt install php
+apt install python
+pip install googletrans 
